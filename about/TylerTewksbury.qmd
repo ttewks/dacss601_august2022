@@ -1,6 +1,7 @@
 ---
 title: "Tyler Tewksbury"
 image: images/TylerTewksbury.jpeg
+
 about:
   template: solana
   image-width: 15em
@@ -19,6 +20,7 @@ DACSS Student Employee for over a year (Social Media currently, previously Instr
 
 ## R experience
 I have experience in R from classwork in Econometrics and Quantitative Research Methods, as well as working on 601 as an Instructional Designer.
+
 
 ## Research interests
 Data Visualization, Autonomous Transportation
